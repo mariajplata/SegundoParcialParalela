@@ -1,8 +1,8 @@
 # Segundo parcial Computación Paralela: Algoritmos para Comparativa de Rendimiento "Benchmarks - Nodos de Cómputo"
 
 En este repositorio encontrará los siguientes 2 algoritmos para utilizar en el parcial #2 de Computación Paralela y Distribuida:
-1. **threads:** benchmark multiplicación de matrices clásica filas por columnas (Aplicando Paralelismo a Nivel de Threads: POSIX)
-2. **openmpV3:** benchmark multiplicación de matrices clásica filas por columnas (Aplicando Paralelismo a Nivel de Threads: OpenMP)
+1. **threads:** benchmark multiplicación de matrices clásica filas por columnas (Aplicando Paralelismo a Nivel de Threads: **POSIX**)
+2. **openmpV3:** benchmark multiplicación de matrices clásica filas por columnas (Aplicando Paralelismo a Nivel de Threads: **OpenMP**)
 
 ### Instrucciones de uso y ejecución:
 
