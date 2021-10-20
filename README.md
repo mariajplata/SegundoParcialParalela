@@ -13,5 +13,4 @@ En este repositorio encontrará los siguientes 2 algoritmos para utilizar en el 
 * Ejecute el lanzador correspondiente del algoritmo. Ej: **./lanzadorEnteros.pl**
 
 ### NOTA:
-* En el algoritmo de openmpV3 en algunas ocasiones puede arrojar un mensaje de **error de segmentación**, esto generará que en el archivo Soluciones haya algunos espacios en blanco pero no debe deterner el algoritmo en caso de que esto suceda ya que los demás resultados si son guardados correctamente.
 * Recuerde que el algoritmo de **threads** lo debe ejecutar la cantidad de veces como la cantidad de hilos que tenga su CPU, modificando en cada ejecución el número de hilos. En openmpV3 no es necesario este proceso ya que lo realiza de forma automática.
